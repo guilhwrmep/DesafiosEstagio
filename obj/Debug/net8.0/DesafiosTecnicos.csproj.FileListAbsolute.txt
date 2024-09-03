@@ -1,0 +1,14 @@
+C:\Users\Guilherme\Desktop\Desafios Tecnicos\DesafiosTecnicos\DesafiosTecnicos\bin\Debug\net8.0\DesafiosTecnicos.exe
+C:\Users\Guilherme\Desktop\Desafios Tecnicos\DesafiosTecnicos\DesafiosTecnicos\bin\Debug\net8.0\DesafiosTecnicos.deps.json
+C:\Users\Guilherme\Desktop\Desafios Tecnicos\DesafiosTecnicos\DesafiosTecnicos\bin\Debug\net8.0\DesafiosTecnicos.runtimeconfig.json
+C:\Users\Guilherme\Desktop\Desafios Tecnicos\DesafiosTecnicos\DesafiosTecnicos\bin\Debug\net8.0\DesafiosTecnicos.dll
+C:\Users\Guilherme\Desktop\Desafios Tecnicos\DesafiosTecnicos\DesafiosTecnicos\bin\Debug\net8.0\DesafiosTecnicos.pdb
+C:\Users\Guilherme\Desktop\Desafios Tecnicos\DesafiosTecnicos\DesafiosTecnicos\obj\Debug\net8.0\DesafiosTecnicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\Desafios Tecnicos\DesafiosTecnicos\DesafiosTecnicos\obj\Debug\net8.0\DesafiosTecnicos.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\Desafios Tecnicos\DesafiosTecnicos\DesafiosTecnicos\obj\Debug\net8.0\DesafiosTecnicos.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\Desafios Tecnicos\DesafiosTecnicos\DesafiosTecnicos\obj\Debug\net8.0\DesafiosTecnicos.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Desafios Tecnicos\DesafiosTecnicos\DesafiosTecnicos\obj\Debug\net8.0\DesafiosTecnicos.dll
+C:\Users\Guilherme\Desktop\Desafios Tecnicos\DesafiosTecnicos\DesafiosTecnicos\obj\Debug\net8.0\refint\DesafiosTecnicos.dll
+C:\Users\Guilherme\Desktop\Desafios Tecnicos\DesafiosTecnicos\DesafiosTecnicos\obj\Debug\net8.0\DesafiosTecnicos.pdb
+C:\Users\Guilherme\Desktop\Desafios Tecnicos\DesafiosTecnicos\DesafiosTecnicos\obj\Debug\net8.0\DesafiosTecnicos.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\Desafios Tecnicos\DesafiosTecnicos\DesafiosTecnicos\obj\Debug\net8.0\ref\DesafiosTecnicos.dll
